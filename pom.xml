@@ -27,6 +27,9 @@
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.10.1</version> <!-- or the latest version -->
+                  <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>3.4.1</version> <!-- Update to a recent version -->
             <configuration>
                 <encoding>UTF-8</encoding>
                      <source>17</source>
