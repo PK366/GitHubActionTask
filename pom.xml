@@ -29,6 +29,8 @@
             <version>3.3.0</version> <!-- or the latest version -->
             <configuration>
                 <encoding>UTF-8</encoding>
+                     <source>11</source>
+                <target>11</target>
             </configuration>
         </plugin>
     </plugins>
